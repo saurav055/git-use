@@ -4,5 +4,6 @@ public class GITExample {
         System.out.println("hello world");
         System.out.println("my name");
         System.out.println("my first diff");
+        System.out.println("  " );
     }
 }

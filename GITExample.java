@@ -6,5 +6,9 @@ public class GITExample {
         System.out.println("my first diff");
         System.out.println("hello world again" );
         System.out.println("All");
+
+        System.out.println("done");
+        System.out.println("updated");
+
     }
 }
